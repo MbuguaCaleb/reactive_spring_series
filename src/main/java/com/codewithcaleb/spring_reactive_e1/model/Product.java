@@ -7,6 +7,7 @@ import org.springframework.data.annotation.Id;
 
 public class Product {
 
+
     public int getId() {
         return id;
     }
